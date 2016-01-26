@@ -31,7 +31,7 @@ library(ggplot2, reshape2)
 ```
 
 ### Fisher's Iris dataset (pre-installed in R)
-![iris](/homes/kerra/Pictures/iris.png)
+![iris](./iris.png)
 
 Fisher examined the length and width of the petals and sepals in irises to determine a classification algorithm. Here we will explore the relationship between species and the dimension of the flowers via the ggplot2 plotting package.  Fisher’s data is stored as a built in data set in R.  To see the data type 
 
